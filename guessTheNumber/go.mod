@@ -1,3 +1,0 @@
-module guessthenumber
-
-go 1.21.0
